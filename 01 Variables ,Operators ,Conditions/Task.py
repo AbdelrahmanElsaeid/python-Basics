@@ -158,7 +158,12 @@ else:
 	
 #	 and   
 #● What is the differences between if , elif
+#  use elif when there are moare than one conditions
+
 #● What is the differences between elif else
+
+#  else ---> use it in the last statment condition there is no condition in here
+
 #● Can we use more than one elif
 
 #	yes
@@ -176,6 +181,8 @@ else:
 #	yes
 
 #● in elif we use else for ... ?
+
+# if condition false 
 
 #● if we have this list [2,4,6,8,10] :
 #○ check to see if 4 in this list or not
