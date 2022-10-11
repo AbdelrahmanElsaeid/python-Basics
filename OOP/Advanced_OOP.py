@@ -88,11 +88,4 @@ print(issubclass(Manager,Developer))
 print(len(mang_1))     
 
 
-employeez = [emp1,emp2,emp3]
-
-def e_sort(emp):
-    return emp.first
-
-s_employee = sorted(employeez, key = e_sort)
-print(s_employee)    
 
