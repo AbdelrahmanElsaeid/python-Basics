@@ -1,7 +1,7 @@
 '''
 ● In which cases we will use all
    
-    if all elements in iterable are True return True otherwise return False
+    if all elements in iterable are True return True otherwise return False.
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-● If we need all the conditions to be true we will use
+● If we need all the conditions to be true we will use......
 
     ----  AND
 
@@ -63,7 +63,7 @@
     ----If there are more options, you use          elif
 
 
-● What is the differences between elif else
+● What is the differences between elif else?
 
     ----Else is used  with if to define the alternative path if the condition
     in the if statement is incorrect.
@@ -72,13 +72,13 @@
 
 
 
-● Can we use more than one elif
+● Can we use more than one elif?
 
     ---- YES
 
 
 
-● Can we use more than one else
+● Can we use more than one else?
 
     ---- NO   
 
