@@ -1,4 +1,5 @@
 #● Create a Boolean variable named x
+
 x = True 
 y = False
 print(type(x))
@@ -28,7 +29,7 @@ print(type(x))
 x = 7.6
 print(type(x))
 
-# ● Can we convert the str to int ?   YES
+# ● Can we convert the str to int ?  --->  YES
 
 x = '50'
 print(type(x))
