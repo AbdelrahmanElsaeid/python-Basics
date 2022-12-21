@@ -10,3 +10,12 @@ def sum(*args):
     return res 
 
 print(sum(1,2,3,4,5))       
+
+
+#    **kwargs
+
+def fun(**kwargs):
+    for key,value in kwargs.item():
+        print(f"{key} == {value}")
+        
+fun(first-name='Abdelrahman', mid-name='Elsaeid', last-name='Abdoelsoud')        
